@@ -1,1 +1,1 @@
-Hello everyone, I am Praveen Kumar, originally from Chennai, India, currently living and working in one of the top #2 banks in London, UK. I am a Full Stack JavaScript Specialist, specialising on React and Node JS.
+Hello everyone, I am **Praveen Kumar**, originally from Chennai, India, currently living and working in one of the top #2 banks in London, UK. I am a **Full Stack JavaScript Specialist**, specialising on React and Node JS.
